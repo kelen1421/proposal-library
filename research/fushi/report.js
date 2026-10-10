@@ -41,7 +41,7 @@
     <div class="case-metrics"><span>播放 ${s.views.toLocaleString('zh-CN')}</span><span>点赞 ${s.likes.toLocaleString('zh-CN')}</span><span>收藏 ${s.favorites.toLocaleString('zh-CN')}</span><span>评论 ${s.comments.toLocaleString('zh-CN')}</span></div>
     <h3><span class="tag fact">公开事实</span> 从哪里观察</h3><p>${esc(s.fact)}</p>
     <h3><span class="tag analysis">研究判断</span> 值得拆解什么</h3><p>${esc(s.analysis)}</p>
-    <h3><span class="tag suggestion">创作建议</span> 迁移到你的表达</h3><p>${esc(s.transfer)}</p>
+    <h3><span class="tag suggestion">创作建议</span> 通用表达参考</h3><p>${esc(s.reference)}</p>
     <p class="note">${esc(s.boundary)}<br>拆解基于公开标题、简介或标签，未替代完整观看。数据为${data.retrievedAt.slice(0,10)}快照。</p>
     <div class="case-links">${link(s.url,'打开原作')}${link(s.api,'官方数据接口')}</div>`;
     dialog.showModal();
@@ -65,7 +65,7 @@
     if (!m) return;
     $$('[data-map]').forEach(button => { const selected = button.dataset.map === key; button.setAttribute('aria-selected', String(selected)); button.tabIndex = selected ? 0 : -1; });
     $('#map-panel').setAttribute('aria-labelledby', `maptab-${key}`);
-    $('#map-panel').innerHTML = `<span class="map-no" aria-hidden="true">${m.no}</span><h3>${esc(m.title)}</h3><p>${esc(m.text)}</p><div class="map-examples">${m.examples.map(x => `<span>${esc(x)}</span>`).join('')}</div><p class="note"><span class="tag suggestion">创作迁移</span> ${esc(m.transfer)}</p>`;
+    $('#map-panel').innerHTML = `<span class="map-no" aria-hidden="true">${m.no}</span><h3>${esc(m.title)}</h3><p>${esc(m.text)}</p><div class="map-examples">${m.examples.map(x => `<span>${esc(x)}</span>`).join('')}</div><p class="note"><span class="tag suggestion">研究参考</span> ${esc(m.reference)}</p>`;
   }
   const tabs = $$('[data-map]');
   tabs.forEach((button, i) => {
@@ -81,7 +81,7 @@
   });
   selectMap('self');
 
-  const storageKey = 'kelen-fushi-research-v1';
+  const storageKey = 'fushi-ip-research-v1';
   let saved = [];
   try { const value = JSON.parse(localStorage.getItem(storageKey)); if (Array.isArray(value)) saved = value; } catch {}
   const tasks = $$('[data-task]');
