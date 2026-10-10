@@ -1,0 +1,162 @@
+{
+  "report": "浮世叁千问 IP锚定调研",
+  "version": "1.0",
+  "retrieved_at": "2026-10-11T04:05:50.330811+08:00",
+  "method": "定向抽样；抖音主页观察；B站官方公开API；作者公开简介与2024年采访。未逐秒拉片。",
+  "douyin": {
+    "url": "https://www.douyin.com/user/MS4wLjABAAAAExzNAP6c__kFO0dBXc9Qc7VDW8lK4BIY_bNbcLpMB0U",
+    "id": "595442291",
+    "followers_display": "84.3万",
+    "likes_display": "705.7万",
+    "works_display": "153",
+    "observed_date": "2026-10-11",
+    "note": "展示精度以原页为准；获赞不等于播放；作品列表加载异常，未取得全量作品数据。"
+  },
+  "bilibili": {
+    "owner_id": 435061656,
+    "owner_name": "浮世叁千问",
+    "sample_count": 8,
+    "selection": "跨年定向作品：与意识/AI相关及不同解释形式。不是近期或全量样本。",
+    "samples": [
+      {
+        "id": "BV1NvbwzuEQf",
+        "originalTitle": "如何判断 AI 有没有意识？",
+        "publishedAt": "2025-08-10",
+        "duration": 386,
+        "views": 271502,
+        "likes": 10747,
+        "favorites": 2343,
+        "comments": 536,
+        "shares": 140,
+        "url": "https://www.bilibili.com/video/BV1NvbwzuEQf/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NvbwzuEQf"
+      },
+      {
+        "id": "BV1au4y1e7SW",
+        "originalTitle": "【灵魂拷问篇-03问】「我」到底存不存在？给你的意识来亿点点震撼（划走你就草率了！）",
+        "publishedAt": "2023-08-25",
+        "duration": 1154,
+        "views": 726440,
+        "likes": 39381,
+        "favorites": 30214,
+        "comments": 2667,
+        "shares": 6558,
+        "url": "https://www.bilibili.com/video/BV1au4y1e7SW/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1au4y1e7SW"
+      },
+      {
+        "id": "BV1jb411f7jC",
+        "originalTitle": "血肉苦弱，机械飞升，为什么永远也无法实现？",
+        "publishedAt": "2023-03-11",
+        "duration": 801,
+        "views": 276294,
+        "likes": 10445,
+        "favorites": 5868,
+        "comments": 2688,
+        "shares": 921,
+        "url": "https://www.bilibili.com/video/BV1jb411f7jC/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jb411f7jC"
+      },
+      {
+        "id": "BV15P6GYcEc3",
+        "originalTitle": "【AI篇】AI 的十层理解，一口气，看懂 AI 的过去、现在与未来。",
+        "publishedAt": "2024-12-30",
+        "duration": 1276,
+        "views": 293686,
+        "likes": 5964,
+        "favorites": 7152,
+        "comments": 459,
+        "shares": 2323,
+        "url": "https://www.bilibili.com/video/BV15P6GYcEc3/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV15P6GYcEc3"
+      },
+      {
+        "id": "BV1tU411U7Kn",
+        "originalTitle": "185分钟，一口气看完，困扰人类千年的十大终极问题！",
+        "publishedAt": "2024-07-19",
+        "duration": 11108,
+        "views": 2345484,
+        "likes": 184881,
+        "favorites": 281122,
+        "comments": 2586,
+        "shares": 16622,
+        "url": "https://www.bilibili.com/video/BV1tU411U7Kn/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tU411U7Kn"
+      },
+      {
+        "id": "BV1XQubzkEwe",
+        "originalTitle": "【纳什均衡】这个简单的规律，却决定了整个人类的未来！",
+        "publishedAt": "2025-07-16",
+        "duration": 306,
+        "views": 2077431,
+        "likes": 99403,
+        "favorites": 39022,
+        "comments": 1373,
+        "shares": 2690,
+        "url": "https://www.bilibili.com/video/BV1XQubzkEwe/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XQubzkEwe"
+      },
+      {
+        "id": "BV1BMSdYUEL4",
+        "originalTitle": "【灵魂拷问篇-11问】色即是空？这才是你一生中最大的幻觉（TCL）",
+        "publishedAt": "2024-11-01",
+        "duration": 742,
+        "views": 312288,
+        "likes": 9167,
+        "favorites": 4734,
+        "comments": 685,
+        "shares": 438,
+        "url": "https://www.bilibili.com/video/BV1BMSdYUEL4/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BMSdYUEL4"
+      },
+      {
+        "id": "BV1fz6mBaE5p",
+        "originalTitle": "《 眼 见 为 虚 》",
+        "publishedAt": "2026-01-10",
+        "duration": 322,
+        "views": 598003,
+        "likes": 30007,
+        "favorites": 2918,
+        "comments": 1608,
+        "shares": 187,
+        "url": "https://www.bilibili.com/video/BV1fz6mBaE5p/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fz6mBaE5p"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "title": "作者采访",
+      "url": "https://www.lifeweek.com.cn/h5/article/detail.do?artId=235217",
+      "published_date": "2024-09-05"
+    },
+    {
+      "title": "抖音尺缩效应样本",
+      "url": "https://www.douyin.com/video/7079313815048883460"
+    },
+    {
+      "title": "抖音不确定性原理样本",
+      "url": "https://www.douyin.com/video/7165178183988415783"
+    }
+  ],
+  "brand_tags": {
+    "BV1BMSdYUEL4": [
+      "TCL MiniLED",
+      "颜色",
+      "TCL电视"
+    ],
+    "BV1fz6mBaE5p": [
+      "百度一见",
+      "AI",
+      "多模态"
+    ]
+  },
+  "unknown": [
+    "抖音单条播放量",
+    "完播率",
+    "近30天全量表现",
+    "受众人口属性",
+    "当前团队",
+    "实际收入与报价"
+  ]
+}
