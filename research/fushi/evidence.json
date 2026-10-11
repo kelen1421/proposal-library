@@ -1,8 +1,8 @@
 {
   "report": "浮世叁千问 IP锚定调研",
-  "version": "1.2",
-  "retrieved_at": "2026-10-11T04:05:50.330811+08:00",
-  "method": "定向抽样；抖音主页观察；B站官方公开API；作者公开简介与2024年采访。未逐秒拉片。",
+  "version": "2.0",
+  "retrieved_at": "2026-10-11T15:22:50.926270+08:00",
+  "method": "7个公开合集定向覆盖；81条作品均通过B站官方view接口核实作者、日期、时长与累计数据。12条重点案例。公开标题/简介/大纲/采访分析，未完整逐秒拉片。",
   "douyin": {
     "url": "https://www.douyin.com/user/MS4wLjABAAAAExzNAP6c__kFO0dBXc9Qc7VDW8lK4BIY_bNbcLpMB0U",
     "id": "595442291",
@@ -15,113 +15,1509 @@
   "bilibili": {
     "owner_id": 435061656,
     "owner_name": "浮世叁千问",
-    "sample_count": 8,
-    "selection": "跨年定向作品：意识/AI相关及不同解释形式。不是近期或全量样本。",
+    "sample_count": 81,
+    "selection": "7个发现的合集覆盖81条独立作品，非作者全量账号、非近期随机样本；12条重点案例从中定向选择。",
     "samples": [
       {
         "id": "BV1NvbwzuEQf",
         "originalTitle": "如何判断 AI 有没有意识？",
         "publishedAt": "2025-08-10",
         "duration": 386,
-        "views": 271502,
+        "views": 271513,
         "likes": 10747,
         "favorites": 2343,
         "comments": 536,
         "shares": 140,
         "url": "https://www.bilibili.com/video/BV1NvbwzuEQf/",
-        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NvbwzuEQf"
-      },
-      {
-        "id": "BV1au4y1e7SW",
-        "originalTitle": "【灵魂拷问篇-03问】「我」到底存不存在？给你的意识来亿点点震撼（划走你就草率了！）",
-        "publishedAt": "2023-08-25",
-        "duration": 1154,
-        "views": 726440,
-        "likes": 39381,
-        "favorites": 30214,
-        "comments": 2667,
-        "shares": 6558,
-        "url": "https://www.bilibili.com/video/BV1au4y1e7SW/",
-        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1au4y1e7SW"
-      },
-      {
-        "id": "BV1jb411f7jC",
-        "originalTitle": "血肉苦弱，机械飞升，为什么永远也无法实现？",
-        "publishedAt": "2023-03-11",
-        "duration": 801,
-        "views": 276294,
-        "likes": 10445,
-        "favorites": 5868,
-        "comments": 2688,
-        "shares": 921,
-        "url": "https://www.bilibili.com/video/BV1jb411f7jC/",
-        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jb411f7jC"
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NvbwzuEQf",
+        "series": [
+          "AI"
+        ]
       },
       {
         "id": "BV15P6GYcEc3",
         "originalTitle": "【AI篇】AI 的十层理解，一口气，看懂 AI 的过去、现在与未来。",
         "publishedAt": "2024-12-30",
         "duration": 1276,
-        "views": 293686,
+        "views": 293693,
         "likes": 5964,
         "favorites": 7152,
         "comments": 459,
-        "shares": 2323,
+        "shares": 2324,
         "url": "https://www.bilibili.com/video/BV15P6GYcEc3/",
-        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV15P6GYcEc3"
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV15P6GYcEc3",
+        "series": [
+          "AI"
+        ]
       },
       {
-        "id": "BV1tU411U7Kn",
-        "originalTitle": "185分钟，一口气看完，困扰人类千年的十大终极问题！",
-        "publishedAt": "2024-07-19",
-        "duration": 11108,
-        "views": 2345484,
-        "likes": 184881,
-        "favorites": 281122,
-        "comments": 2586,
-        "shares": 16622,
-        "url": "https://www.bilibili.com/video/BV1tU411U7Kn/",
-        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tU411U7Kn"
+        "id": "BV1kg4y1T7PA",
+        "originalTitle": "大语言模型为什么这么厉害？涌现？思维链？万字科普GPT-4，真正梦开始的地方。",
+        "publishedAt": "2023-04-16",
+        "duration": 1119,
+        "views": 173879,
+        "likes": 10924,
+        "favorites": 7520,
+        "comments": 863,
+        "shares": 2068,
+        "url": "https://www.bilibili.com/video/BV1kg4y1T7PA/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kg4y1T7PA",
+        "series": [
+          "AI"
+        ]
       },
       {
-        "id": "BV1XQubzkEwe",
-        "originalTitle": "【纳什均衡】这个简单的规律，却决定了整个人类的未来！",
-        "publishedAt": "2025-07-16",
-        "duration": 306,
-        "views": 2077431,
-        "likes": 99403,
-        "favorites": 39022,
-        "comments": 1373,
-        "shares": 2690,
-        "url": "https://www.bilibili.com/video/BV1XQubzkEwe/",
-        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XQubzkEwe"
+        "id": "BV1hB4y1D7um",
+        "originalTitle": "【灵魂拷问篇-01问】宇宙到底有多大？从空间曲率到平行宇宙，为你重塑现代科学宇宙观",
+        "publishedAt": "2022-06-03",
+        "duration": 990,
+        "views": 6242898,
+        "likes": 87714,
+        "favorites": 41044,
+        "comments": 4609,
+        "shares": 7984,
+        "url": "https://www.bilibili.com/video/BV1hB4y1D7um/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hB4y1D7um",
+        "series": [
+          "灵魂拷问"
+        ]
+      },
+      {
+        "id": "BV1au4y1e7SW",
+        "originalTitle": "【灵魂拷问篇-03问】「我」到底存不存在？给你的意识来亿点点震撼（划走你就草率了！）",
+        "publishedAt": "2023-08-25",
+        "duration": 1154,
+        "views": 726460,
+        "likes": 39382,
+        "favorites": 30212,
+        "comments": 2667,
+        "shares": 6558,
+        "url": "https://www.bilibili.com/video/BV1au4y1e7SW/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1au4y1e7SW",
+        "series": [
+          "灵魂拷问"
+        ]
+      },
+      {
+        "id": "BV12h4y1a74z",
+        "originalTitle": "【灵魂拷问篇-04问】世界是真实存在的吗？从科学的角度怎么看？",
+        "publishedAt": "2023-09-23",
+        "duration": 1093,
+        "views": 381961,
+        "likes": 15531,
+        "favorites": 7818,
+        "comments": 1210,
+        "shares": 1725,
+        "url": "https://www.bilibili.com/video/BV12h4y1a74z/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV12h4y1a74z",
+        "series": [
+          "灵魂拷问"
+        ]
+      },
+      {
+        "id": "BV1LC4y1U768",
+        "originalTitle": "【灵魂拷问篇-05问】时间体验的本质是什么？到底是谁偷走了你的时间？",
+        "publishedAt": "2023-11-10",
+        "duration": 1033,
+        "views": 509623,
+        "likes": 20603,
+        "favorites": 11454,
+        "comments": 716,
+        "shares": 2257,
+        "url": "https://www.bilibili.com/video/BV1LC4y1U768/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LC4y1U768",
+        "series": [
+          "灵魂拷问"
+        ]
+      },
+      {
+        "id": "BV1ze411U7Ne",
+        "originalTitle": "【灵魂拷问篇-06问】人到底有没有自由意志？",
+        "publishedAt": "2024-01-06",
+        "duration": 975,
+        "views": 209920,
+        "likes": 7518,
+        "favorites": 4454,
+        "comments": 1151,
+        "shares": 1701,
+        "url": "https://www.bilibili.com/video/BV1ze411U7Ne/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ze411U7Ne",
+        "series": [
+          "灵魂拷问"
+        ]
+      },
+      {
+        "id": "BV1op421Z7Wm",
+        "originalTitle": "【灵魂拷问篇-07问】寒窗苦读20年，为什么却成了一个工具人？",
+        "publishedAt": "2024-02-03",
+        "duration": 868,
+        "views": 138733,
+        "likes": 5106,
+        "favorites": 1866,
+        "comments": 317,
+        "shares": 558,
+        "url": "https://www.bilibili.com/video/BV1op421Z7Wm/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1op421Z7Wm",
+        "series": [
+          "灵魂拷问"
+        ]
+      },
+      {
+        "id": "BV1xm411f78t",
+        "originalTitle": "【灵魂拷问篇-08问】宇宙中真的有另外一个自己？平行宇宙存在吗？",
+        "publishedAt": "2024-02-24",
+        "duration": 687,
+        "views": 207433,
+        "likes": 8498,
+        "favorites": 3330,
+        "comments": 430,
+        "shares": 498,
+        "url": "https://www.bilibili.com/video/BV1xm411f78t/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xm411f78t",
+        "series": [
+          "灵魂拷问"
+        ]
+      },
+      {
+        "id": "BV1Sz421Q7e6",
+        "originalTitle": "【灵魂拷问篇-09问】宇宙诞生之前是什么？一个视频，刷新你的现代科学宇宙观",
+        "publishedAt": "2024-03-09",
+        "duration": 727,
+        "views": 504585,
+        "likes": 11731,
+        "favorites": 6212,
+        "comments": 1304,
+        "shares": 800,
+        "url": "https://www.bilibili.com/video/BV1Sz421Q7e6/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Sz421Q7e6",
+        "series": [
+          "灵魂拷问"
+        ]
       },
       {
         "id": "BV1BMSdYUEL4",
         "originalTitle": "【灵魂拷问篇-11问】色即是空？这才是你一生中最大的幻觉（TCL）",
         "publishedAt": "2024-11-01",
         "duration": 742,
-        "views": 312288,
+        "views": 312299,
         "likes": 9167,
-        "favorites": 4734,
+        "favorites": 4733,
         "comments": 685,
         "shares": 438,
         "url": "https://www.bilibili.com/video/BV1BMSdYUEL4/",
-        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BMSdYUEL4"
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BMSdYUEL4",
+        "series": [
+          "灵魂拷问"
+        ]
+      },
+      {
+        "id": "BV1RKDZYQEQS",
+        "originalTitle": "【灵魂拷问篇-12问】新证据！宇宙本身或许能自主思考（深度对比宇宙大尺度结构与人脑神经网络）",
+        "publishedAt": "2024-11-09",
+        "duration": 609,
+        "views": 229943,
+        "likes": 10379,
+        "favorites": 3078,
+        "comments": 705,
+        "shares": 442,
+        "url": "https://www.bilibili.com/video/BV1RKDZYQEQS/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RKDZYQEQS",
+        "series": [
+          "灵魂拷问"
+        ]
+      },
+      {
+        "id": "BV1twUvYuEy3",
+        "originalTitle": "【干货】如 何 科 学 操 控 梦 境",
+        "publishedAt": "2024-11-16",
+        "duration": 582,
+        "views": 403462,
+        "likes": 17379,
+        "favorites": 9735,
+        "comments": 1029,
+        "shares": 685,
+        "url": "https://www.bilibili.com/video/BV1twUvYuEy3/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1twUvYuEy3",
+        "series": [
+          "灵魂拷问"
+        ]
+      },
+      {
+        "id": "BV1x44y1D7zJ",
+        "originalTitle": "【三体小知识-01期】引力波：真正的缩地成寸！",
+        "publishedAt": "2022-11-27",
+        "duration": 650,
+        "views": 144147,
+        "likes": 4219,
+        "favorites": 1465,
+        "comments": 206,
+        "shares": 180,
+        "url": "https://www.bilibili.com/video/BV1x44y1D7zJ/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1x44y1D7zJ",
+        "series": [
+          "走近科幻"
+        ]
+      },
+      {
+        "id": "BV1jb411f7jC",
+        "originalTitle": "血肉苦弱，机械飞升，为什么永远也无法实现？",
+        "publishedAt": "2023-03-11",
+        "duration": 801,
+        "views": 276302,
+        "likes": 10445,
+        "favorites": 5868,
+        "comments": 2688,
+        "shares": 921,
+        "url": "https://www.bilibili.com/video/BV1jb411f7jC/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jb411f7jC",
+        "series": [
+          "走近科幻"
+        ]
+      },
+      {
+        "id": "BV1mnAczBEHC",
+        "originalTitle": "《挽救计划》中的物理学之——外星生命的 N 种形态",
+        "publishedAt": "2026-03-21",
+        "duration": 362,
+        "views": 2368471,
+        "likes": 55265,
+        "favorites": 24088,
+        "comments": 747,
+        "shares": 1405,
+        "url": "https://www.bilibili.com/video/BV1mnAczBEHC/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mnAczBEHC",
+        "series": [
+          "走近科幻"
+        ]
+      },
+      {
+        "id": "BV1cW42197HX",
+        "originalTitle": "【一口气系列】38个诡异的视觉错觉，看完还敢相信眼睛吗？",
+        "publishedAt": "2024-07-19",
+        "duration": 408,
+        "views": 11416569,
+        "likes": 147457,
+        "favorites": 297441,
+        "comments": 1670,
+        "shares": 4548,
+        "url": "https://www.bilibili.com/video/BV1cW42197HX/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cW42197HX",
+        "series": [
+          "一口气系列"
+        ]
+      },
+      {
+        "id": "BV1tU411U7Kn",
+        "originalTitle": "185分钟，一口气看完，困扰人类千年的十大终极问题！",
+        "publishedAt": "2024-07-19",
+        "duration": 11108,
+        "views": 2345565,
+        "likes": 184881,
+        "favorites": 281121,
+        "comments": 2586,
+        "shares": 16622,
+        "url": "https://www.bilibili.com/video/BV1tU411U7Kn/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tU411U7Kn",
+        "series": [
+          "一口气系列"
+        ]
+      },
+      {
+        "id": "BV1WE421w7E3",
+        "originalTitle": "【一口气系列】16种人类灭绝的可能性，看完你还会有烦恼吗？",
+        "publishedAt": "2024-07-28",
+        "duration": 553,
+        "views": 961464,
+        "likes": 42762,
+        "favorites": 35814,
+        "comments": 605,
+        "shares": 698,
+        "url": "https://www.bilibili.com/video/BV1WE421w7E3/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WE421w7E3",
+        "series": [
+          "一口气系列"
+        ]
+      },
+      {
+        "id": "BV1LE4m1d7Ha",
+        "originalTitle": "【一口气系列】5种宇宙的大结局，你更喜欢哪一种？",
+        "publishedAt": "2024-08-04",
+        "duration": 836,
+        "views": 677917,
+        "likes": 17179,
+        "favorites": 11262,
+        "comments": 966,
+        "shares": 707,
+        "url": "https://www.bilibili.com/video/BV1LE4m1d7Ha/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LE4m1d7Ha",
+        "series": [
+          "一口气系列"
+        ]
+      },
+      {
+        "id": "BV1Jr421M74H",
+        "originalTitle": "15个最伟大的物理学公式，Top1和你想的一样吗？",
+        "publishedAt": "2024-08-16",
+        "duration": 648,
+        "views": 456455,
+        "likes": 16451,
+        "favorites": 20797,
+        "comments": 587,
+        "shares": 834,
+        "url": "https://www.bilibili.com/video/BV1Jr421M74H/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Jr421M74H",
+        "series": [
+          "一口气系列"
+        ]
+      },
+      {
+        "id": "BV1Gr421N7UL",
+        "originalTitle": "一口气看完，天才爱因斯坦的传奇人生，如何从失业青年一步步逆袭成为科学巨匠！",
+        "publishedAt": "2024-08-29",
+        "duration": 2135,
+        "views": 367636,
+        "likes": 18914,
+        "favorites": 4407,
+        "comments": 431,
+        "shares": 462,
+        "url": "https://www.bilibili.com/video/BV1Gr421N7UL/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Gr421N7UL",
+        "series": [
+          "一口气系列"
+        ]
+      },
+      {
+        "id": "BV1XN4AenETx",
+        "originalTitle": "203分钟，一口气看完，深度解读整个量子力学的发展历程",
+        "publishedAt": "2024-10-04",
+        "duration": 12232,
+        "views": 1299277,
+        "likes": 68975,
+        "favorites": 123418,
+        "comments": 1757,
+        "shares": 13503,
+        "url": "https://www.bilibili.com/video/BV1XN4AenETx/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XN4AenETx",
+        "series": [
+          "一口气系列"
+        ]
+      },
+      {
+        "id": "BV11q2tY5Edi",
+        "originalTitle": "【一口气系列】10个最著名的量子实验，看看你见过几个？",
+        "publishedAt": "2024-10-12",
+        "duration": 767,
+        "views": 318890,
+        "likes": 13217,
+        "favorites": 13295,
+        "comments": 218,
+        "shares": 516,
+        "url": "https://www.bilibili.com/video/BV11q2tY5Edi/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV11q2tY5Edi",
+        "series": [
+          "一口气系列"
+        ]
+      },
+      {
+        "id": "BV18pbCztEnC",
+        "originalTitle": "10 大最美数学公式，Top1和你想的一样吗？",
+        "publishedAt": "2025-07-24",
+        "duration": 465,
+        "views": 326867,
+        "likes": 16434,
+        "favorites": 9858,
+        "comments": 301,
+        "shares": 454,
+        "url": "https://www.bilibili.com/video/BV18pbCztEnC/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV18pbCztEnC",
+        "series": [
+          "一口气系列"
+        ]
+      },
+      {
+        "id": "BV1UR8RzFEf2",
+        "originalTitle": "【宇宙假说】一口气理解现实的 4 个可能性，你最认可哪一个？",
+        "publishedAt": "2025-07-29",
+        "duration": 449,
+        "views": 421938,
+        "likes": 20504,
+        "favorites": 11599,
+        "comments": 795,
+        "shares": 454,
+        "url": "https://www.bilibili.com/video/BV1UR8RzFEf2/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UR8RzFEf2",
+        "series": [
+          "一口气系列"
+        ]
+      },
+      {
+        "id": "BV13vWuz9EJM",
+        "originalTitle": "一口气带你看完10大著名悖论！",
+        "publishedAt": "2025-09-19",
+        "duration": 427,
+        "views": 246196,
+        "likes": 6372,
+        "favorites": 2863,
+        "comments": 352,
+        "shares": 195,
+        "url": "https://www.bilibili.com/video/BV13vWuz9EJM/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV13vWuz9EJM",
+        "series": [
+          "一口气系列"
+        ]
+      },
+      {
+        "id": "BV14eKKeiEtr",
+        "originalTitle": "【分形】一根线，能折叠出整个宇宙吗？",
+        "publishedAt": "2025-02-14",
+        "duration": 439,
+        "views": 10051610,
+        "likes": 112925,
+        "favorites": 101064,
+        "comments": 11166,
+        "shares": 3413,
+        "url": "https://www.bilibili.com/video/BV14eKKeiEtr/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV14eKKeiEtr",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1i8XXYmEer",
+        "originalTitle": "这个简单的自然法则，支配着所有的物理定律",
+        "publishedAt": "2025-03-01",
+        "duration": 325,
+        "views": 933819,
+        "likes": 62228,
+        "favorites": 28721,
+        "comments": 1164,
+        "shares": 2381,
+        "url": "https://www.bilibili.com/video/BV1i8XXYmEer/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1i8XXYmEer",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV11zRsYREtB",
+        "originalTitle": "物理学中意义最深远的概念",
+        "publishedAt": "2025-03-08",
+        "duration": 424,
+        "views": 640214,
+        "likes": 23511,
+        "favorites": 15102,
+        "comments": 647,
+        "shares": 1146,
+        "url": "https://www.bilibili.com/video/BV11zRsYREtB/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV11zRsYREtB",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV13dXLYKEcb",
+        "originalTitle": "圆周率藏着每个人的生日吗，如果 π被算尽会怎样？",
+        "publishedAt": "2025-03-18",
+        "duration": 453,
+        "views": 8791759,
+        "likes": 52164,
+        "favorites": 74943,
+        "comments": 897,
+        "shares": 935,
+        "url": "https://www.bilibili.com/video/BV13dXLYKEcb/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV13dXLYKEcb",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1TAZBYBEzF",
+        "originalTitle": "这个简单的问题，彻底改变了时空观",
+        "publishedAt": "2025-03-30",
+        "duration": 477,
+        "views": 407136,
+        "likes": 17454,
+        "favorites": 6200,
+        "comments": 526,
+        "shares": 371,
+        "url": "https://www.bilibili.com/video/BV1TAZBYBEzF/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TAZBYBEzF",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1MP5JzpE5D",
+        "originalTitle": "这个简单的问题，揭示了世界不可知的本质",
+        "publishedAt": "2025-04-18",
+        "duration": 376,
+        "views": 638282,
+        "likes": 13324,
+        "favorites": 6779,
+        "comments": 301,
+        "shares": 417,
+        "url": "https://www.bilibili.com/video/BV1MP5JzpE5D/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MP5JzpE5D",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1vUjJzuEYp",
+        "originalTitle": "这个简洁的算法，彻底改变了世界！",
+        "publishedAt": "2025-05-23",
+        "duration": 436,
+        "views": 313670,
+        "likes": 8489,
+        "favorites": 4372,
+        "comments": 364,
+        "shares": 315,
+        "url": "https://www.bilibili.com/video/BV1vUjJzuEYp/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vUjJzuEYp",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1Zo7pzWEBs",
+        "originalTitle": "地球重力加速度 g 为何与 π² 数值如此接近？这并非巧合",
+        "publishedAt": "2025-05-30",
+        "duration": 392,
+        "views": 891830,
+        "likes": 20859,
+        "favorites": 9434,
+        "comments": 3491,
+        "shares": 1391,
+        "url": "https://www.bilibili.com/video/BV1Zo7pzWEBs/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Zo7pzWEBs",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1nGTiziEVk",
+        "originalTitle": "韦神到底在研究啥？一口气看懂韦神科研成果",
+        "publishedAt": "2025-06-09",
+        "duration": 254,
+        "views": 311256,
+        "likes": 9423,
+        "favorites": 1983,
+        "comments": 792,
+        "shares": 383,
+        "url": "https://www.bilibili.com/video/BV1nGTiziEVk/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nGTiziEVk",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1AfKwzVEhQ",
+        "originalTitle": "朋友落水，却让我悟出光的真谛！",
+        "publishedAt": "2025-06-20",
+        "duration": 281,
+        "views": 677142,
+        "likes": 37713,
+        "favorites": 15514,
+        "comments": 919,
+        "shares": 1275,
+        "url": "https://www.bilibili.com/video/BV1AfKwzVEhQ/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AfKwzVEhQ",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1st3XzNEsT",
+        "originalTitle": "【无穷】♾️ 和 ♾️ + 1 哪个更大？希尔伯特旅馆解答了这个问题！",
+        "publishedAt": "2025-07-05",
+        "duration": 271,
+        "views": 685555,
+        "likes": 17959,
+        "favorites": 5830,
+        "comments": 2674,
+        "shares": 687,
+        "url": "https://www.bilibili.com/video/BV1st3XzNEsT/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1st3XzNEsT",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1XQubzkEwe",
+        "originalTitle": "【纳什均衡】这个简单的规律，却决定了整个人类的未来！",
+        "publishedAt": "2025-07-16",
+        "duration": 306,
+        "views": 2077475,
+        "likes": 99403,
+        "favorites": 39024,
+        "comments": 1373,
+        "shares": 2690,
+        "url": "https://www.bilibili.com/video/BV1XQubzkEwe/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XQubzkEwe",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1Wfhwz6ETC",
+        "originalTitle": "四维空间理解不了？看不懂你打我！",
+        "publishedAt": "2025-07-30",
+        "duration": 339,
+        "views": 2392102,
+        "likes": 76171,
+        "favorites": 29114,
+        "comments": 2021,
+        "shares": 1818,
+        "url": "https://www.bilibili.com/video/BV1Wfhwz6ETC/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Wfhwz6ETC",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1SihXz4E3o",
+        "originalTitle": "这个小小的结，却解开了生命的奥秘！",
+        "publishedAt": "2025-08-29",
+        "duration": 448,
+        "views": 1026556,
+        "likes": 48753,
+        "favorites": 21238,
+        "comments": 374,
+        "shares": 701,
+        "url": "https://www.bilibili.com/video/BV1SihXz4E3o/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SihXz4E3o",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV17Lp9zHEuR",
+        "originalTitle": "这个人人都玩过的数字小游戏，却隐藏着宇宙最大的未解之谜！",
+        "publishedAt": "2025-09-20",
+        "duration": 477,
+        "views": 512767,
+        "likes": 19922,
+        "favorites": 8664,
+        "comments": 448,
+        "shares": 384,
+        "url": "https://www.bilibili.com/video/BV17Lp9zHEuR/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV17Lp9zHEuR",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1LHCgBcEXG",
+        "originalTitle": "聪明人悖论，多重推理游戏，看看你能推到第几重？",
+        "publishedAt": "2025-11-15",
+        "duration": 362,
+        "views": 906836,
+        "likes": 16774,
+        "favorites": 10436,
+        "comments": 447,
+        "shares": 479,
+        "url": "https://www.bilibili.com/video/BV1LHCgBcEXG/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LHCgBcEXG",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1r12iBnEPJ",
+        "originalTitle": "你永远也无法掉进一个黑洞？",
+        "publishedAt": "2025-12-04",
+        "duration": 445,
+        "views": 285646,
+        "likes": 13537,
+        "favorites": 2489,
+        "comments": 452,
+        "shares": 181,
+        "url": "https://www.bilibili.com/video/BV1r12iBnEPJ/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1r12iBnEPJ",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV177iMB6EgF",
+        "originalTitle": "这个简单的问题，揭示了电的本质!",
+        "publishedAt": "2025-12-31",
+        "duration": 339,
+        "views": 663394,
+        "likes": 27049,
+        "favorites": 8968,
+        "comments": 1565,
+        "shares": 1165,
+        "url": "https://www.bilibili.com/video/BV177iMB6EgF/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV177iMB6EgF",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1xHFWzxEuE",
+        "originalTitle": "这个人人皆知的物理学铁律，竟然一直是错的！",
+        "publishedAt": "2026-02-07",
+        "duration": 417,
+        "views": 617252,
+        "likes": 26762,
+        "favorites": 8242,
+        "comments": 1394,
+        "shares": 555,
+        "url": "https://www.bilibili.com/video/BV1xHFWzxEuE/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xHFWzxEuE",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV1nT9SBgE83",
+        "originalTitle": "你头顶上的旋，竟藏着可控核聚变的奥秘！",
+        "publishedAt": "2026-04-29",
+        "duration": 324,
+        "views": 321570,
+        "likes": 11955,
+        "favorites": 2214,
+        "comments": 159,
+        "shares": 95,
+        "url": "https://www.bilibili.com/video/BV1nT9SBgE83/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nT9SBgE83",
+        "series": [
+          "极速烧脑"
+        ]
+      },
+      {
+        "id": "BV16P4y1z7uR",
+        "originalTitle": "免疫系统到底有多强？从病毒入侵到完全恢复，一个视频，看懂免疫系统大战新冠病毒全过程",
+        "publishedAt": "2023-01-23",
+        "duration": 1231,
+        "views": 713803,
+        "likes": 39120,
+        "favorites": 21086,
+        "comments": 1484,
+        "shares": 6959,
+        "url": "https://www.bilibili.com/video/BV16P4y1z7uR/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV16P4y1z7uR",
+        "series": [
+          "人体"
+        ]
+      },
+      {
+        "id": "BV1TCd2YxES3",
+        "originalTitle": "这张简单的图，暴露了人眼的最大Bug",
+        "publishedAt": "2025-04-11",
+        "duration": 516,
+        "views": 2373134,
+        "likes": 19722,
+        "favorites": 14578,
+        "comments": 659,
+        "shares": 893,
+        "url": "https://www.bilibili.com/video/BV1TCd2YxES3/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TCd2YxES3",
+        "series": [
+          "人体"
+        ]
       },
       {
         "id": "BV1fz6mBaE5p",
         "originalTitle": "《 眼 见 为 虚 》",
         "publishedAt": "2026-01-10",
         "duration": 322,
-        "views": 598003,
+        "views": 598005,
         "likes": 30007,
         "favorites": 2918,
         "comments": 1608,
         "shares": 187,
         "url": "https://www.bilibili.com/video/BV1fz6mBaE5p/",
-        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fz6mBaE5p"
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fz6mBaE5p",
+        "series": [
+          "人体"
+        ]
+      },
+      {
+        "id": "BV1s2QEBsE96",
+        "originalTitle": "人类疼痛极限，你能扛住多少级？",
+        "publishedAt": "2026-04-15",
+        "duration": 273,
+        "views": 2342126,
+        "likes": 100451,
+        "favorites": 15960,
+        "comments": 4161,
+        "shares": 1523,
+        "url": "https://www.bilibili.com/video/BV1s2QEBsE96/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1s2QEBsE96",
+        "series": [
+          "人体"
+        ]
+      },
+      {
+        "id": "BV1s7Vm6VEYe",
+        "originalTitle": "少年，你对皮燕子一无所知！",
+        "publishedAt": "2026-06-03",
+        "duration": 334,
+        "views": 1219659,
+        "likes": 68456,
+        "favorites": 28561,
+        "comments": 2304,
+        "shares": 8512,
+        "url": "https://www.bilibili.com/video/BV1s7Vm6VEYe/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1s7Vm6VEYe",
+        "series": [
+          "人体"
+        ]
+      },
+      {
+        "id": "BV1RvEd6hE4g",
+        "originalTitle": "为什么别人睡6小时精力充沛，而你10小时还软趴趴？",
+        "publishedAt": "2026-06-10",
+        "duration": 459,
+        "views": 286356,
+        "likes": 15603,
+        "favorites": 5148,
+        "comments": 467,
+        "shares": 400,
+        "url": "https://www.bilibili.com/video/BV1RvEd6hE4g/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RvEd6hE4g",
+        "series": [
+          "人体"
+        ]
+      },
+      {
+        "id": "BV1NfjF6DETP",
+        "originalTitle": "接吻10 秒钟，双方到底交换了什么？！",
+        "publishedAt": "2026-06-18",
+        "duration": 332,
+        "views": 454185,
+        "likes": 19415,
+        "favorites": 4410,
+        "comments": 401,
+        "shares": 1266,
+        "url": "https://www.bilibili.com/video/BV1NfjF6DETP/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NfjF6DETP",
+        "series": [
+          "人体"
+        ]
+      },
+      {
+        "id": "BV1kz3C6REzy",
+        "originalTitle": "为什么人类都喜欢「高颜值」异性？",
+        "publishedAt": "2026-07-29",
+        "duration": 218,
+        "views": 236491,
+        "likes": 5786,
+        "favorites": 3025,
+        "comments": 698,
+        "shares": 191,
+        "url": "https://www.bilibili.com/video/BV1kz3C6REzy/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kz3C6REzy",
+        "series": [
+          "人体"
+        ]
+      },
+      {
+        "id": "BV1DyhF6wEwK",
+        "originalTitle": "人类为什么会进化出如此多的性快感？",
+        "publishedAt": "2026-08-27",
+        "duration": 403,
+        "views": 349291,
+        "likes": 34268,
+        "favorites": 7069,
+        "comments": 434,
+        "shares": 441,
+        "url": "https://www.bilibili.com/video/BV1DyhF6wEwK/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DyhF6wEwK",
+        "series": [
+          "人体"
+        ]
+      },
+      {
+        "id": "BV1Lwew6JEzk",
+        "originalTitle": "这个妈见打的\"坏习惯\"，竟然能救命!",
+        "publishedAt": "2026-09-16",
+        "duration": 290,
+        "views": 517951,
+        "likes": 42041,
+        "favorites": 5843,
+        "comments": 530,
+        "shares": 958,
+        "url": "https://www.bilibili.com/video/BV1Lwew6JEzk/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Lwew6JEzk",
+        "series": [
+          "人体"
+        ]
+      },
+      {
+        "id": "BV1cf4y1Z784",
+        "originalTitle": "【量子力学篇-01期】经典物理学的终结，量子力学的开端",
+        "publishedAt": "2022-07-02",
+        "duration": 809,
+        "views": 333365,
+        "likes": 12758,
+        "favorites": 6904,
+        "comments": 310,
+        "shares": 2051,
+        "url": "https://www.bilibili.com/video/BV1cf4y1Z784/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cf4y1Z784",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1EV4y1x74g",
+        "originalTitle": "【量子力学篇-02期】从哲学到科学，一个视频，为你重塑现代科学原子观",
+        "publishedAt": "2022-08-05",
+        "duration": 846,
+        "views": 242611,
+        "likes": 8419,
+        "favorites": 2478,
+        "comments": 302,
+        "shares": 695,
+        "url": "https://www.bilibili.com/video/BV1EV4y1x74g/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EV4y1x74g",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1na41157US",
+        "originalTitle": "【量子力学篇-03期】光，究竟是什么？",
+        "publishedAt": "2022-08-20",
+        "duration": 922,
+        "views": 276598,
+        "likes": 7667,
+        "favorites": 2638,
+        "comments": 316,
+        "shares": 606,
+        "url": "https://www.bilibili.com/video/BV1na41157US/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1na41157US",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1wD4y1z7yZ",
+        "originalTitle": "【量子力学篇-04期】单光子真的会自己和自己干涉？",
+        "publishedAt": "2022-09-03",
+        "duration": 679,
+        "views": 264726,
+        "likes": 7010,
+        "favorites": 2524,
+        "comments": 442,
+        "shares": 836,
+        "url": "https://www.bilibili.com/video/BV1wD4y1z7yZ/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wD4y1z7yZ",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1hV4y1g7zr",
+        "originalTitle": "【量子力学篇-05期】一个能让你重塑世界观的现象，量子纠缠",
+        "publishedAt": "2022-10-30",
+        "duration": 712,
+        "views": 256725,
+        "likes": 7427,
+        "favorites": 3203,
+        "comments": 212,
+        "shares": 868,
+        "url": "https://www.bilibili.com/video/BV1hV4y1g7zr/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hV4y1g7zr",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1cW4y1t72S",
+        "originalTitle": "【量子力学篇-06期】真正的无中生有，虚生万物！",
+        "publishedAt": "2022-11-13",
+        "duration": 700,
+        "views": 286502,
+        "likes": 7219,
+        "favorites": 3240,
+        "comments": 249,
+        "shares": 735,
+        "url": "https://www.bilibili.com/video/BV1cW4y1t72S/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cW4y1t72S",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1924y1D7vn",
+        "originalTitle": "【量子力学篇-07期】德布罗意：女人，只会影响我出书的速度",
+        "publishedAt": "2022-12-18",
+        "duration": 699,
+        "views": 200808,
+        "likes": 4915,
+        "favorites": 1655,
+        "comments": 158,
+        "shares": 427,
+        "url": "https://www.bilibili.com/video/BV1924y1D7vn/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1924y1D7vn",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1gT411h7ug",
+        "originalTitle": "【量子力学篇-08期】世界的底层是概率？看完本期，你就比薛定谔更懂薛定谔方程。",
+        "publishedAt": "2023-04-30",
+        "duration": 826,
+        "views": 258826,
+        "likes": 10128,
+        "favorites": 3904,
+        "comments": 214,
+        "shares": 473,
+        "url": "https://www.bilibili.com/video/BV1gT411h7ug/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gT411h7ug",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV18s4y1g7zh",
+        "originalTitle": "【量子力学篇-09期】真实微观世界里的法术之——量 子 隧 穿。",
+        "publishedAt": "2023-05-13",
+        "duration": 609,
+        "views": 255362,
+        "likes": 7900,
+        "favorites": 3066,
+        "comments": 265,
+        "shares": 435,
+        "url": "https://www.bilibili.com/video/BV18s4y1g7zh/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV18s4y1g7zh",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1sz4y1q7MA",
+        "originalTitle": "【量子力学篇-10期】反物质到底是什么？",
+        "publishedAt": "2023-06-02",
+        "duration": 715,
+        "views": 407945,
+        "likes": 16460,
+        "favorites": 7619,
+        "comments": 444,
+        "shares": 602,
+        "url": "https://www.bilibili.com/video/BV1sz4y1q7MA/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sz4y1q7MA",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1kV4y1e7XP",
+        "originalTitle": "【量子力学篇-11期】泡利不相容原理——理解世界的关键",
+        "publishedAt": "2023-08-06",
+        "duration": 814,
+        "views": 350858,
+        "likes": 13274,
+        "favorites": 6987,
+        "comments": 649,
+        "shares": 1048,
+        "url": "https://www.bilibili.com/video/BV1kV4y1e7XP/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kV4y1e7XP",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1M14y1C7Fu",
+        "originalTitle": "【量子力学篇-12期】离大谱，事件竟能相消！？",
+        "publishedAt": "2023-09-08",
+        "duration": 481,
+        "views": 420864,
+        "likes": 16062,
+        "favorites": 8871,
+        "comments": 790,
+        "shares": 1134,
+        "url": "https://www.bilibili.com/video/BV1M14y1C7Fu/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1M14y1C7Fu",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1yM41197mo",
+        "originalTitle": "【量子力学篇-13期】这才是年轻人该磕的CP嘛！",
+        "publishedAt": "2023-10-20",
+        "duration": 859,
+        "views": 1208829,
+        "likes": 61657,
+        "favorites": 44897,
+        "comments": 1011,
+        "shares": 6182,
+        "url": "https://www.bilibili.com/video/BV1yM41197mo/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yM41197mo",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1UC4y117HL",
+        "originalTitle": "【量子力学篇-14期】如果你能看懂这个视频，那你就真的理解了量子力学",
+        "publishedAt": "2023-11-24",
+        "duration": 564,
+        "views": 426220,
+        "likes": 21978,
+        "favorites": 12090,
+        "comments": 753,
+        "shares": 1227,
+        "url": "https://www.bilibili.com/video/BV1UC4y117HL/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UC4y117HL",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1Ht4y1R7Y7",
+        "originalTitle": "【量子力学篇-15期】量子计算机为何如此生猛？",
+        "publishedAt": "2024-01-13",
+        "duration": 773,
+        "views": 189133,
+        "likes": 7691,
+        "favorites": 2932,
+        "comments": 282,
+        "shares": 406,
+        "url": "https://www.bilibili.com/video/BV1Ht4y1R7Y7/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ht4y1R7Y7",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1T5411v79M",
+        "originalTitle": "【量子力学篇-16期】延迟选择实验：因果律不存在了？",
+        "publishedAt": "2024-01-19",
+        "duration": 604,
+        "views": 313702,
+        "likes": 11355,
+        "favorites": 7016,
+        "comments": 845,
+        "shares": 950,
+        "url": "https://www.bilibili.com/video/BV1T5411v79M/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1T5411v79M",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1zK421v7L3",
+        "originalTitle": "【量子力学篇-17期】薛猫的五层理解，看看你在第几层？",
+        "publishedAt": "2024-03-16",
+        "duration": 644,
+        "views": 1152417,
+        "likes": 32618,
+        "favorites": 28247,
+        "comments": 753,
+        "shares": 2067,
+        "url": "https://www.bilibili.com/video/BV1zK421v7L3/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zK421v7L3",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV19M4m117G2",
+        "originalTitle": "【量子力学篇-18期】退相干：宏观世界，也存在量子态？",
+        "publishedAt": "2024-07-12",
+        "duration": 450,
+        "views": 176188,
+        "likes": 8250,
+        "favorites": 3415,
+        "comments": 290,
+        "shares": 305,
+        "url": "https://www.bilibili.com/video/BV19M4m117G2/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV19M4m117G2",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1AZiBYLEov",
+        "originalTitle": "【量子力学篇-19期】什么是宇称不守恒？如何告诉外星人“左”是哪边？",
+        "publishedAt": "2024-12-06",
+        "duration": 592,
+        "views": 424297,
+        "likes": 19676,
+        "favorites": 5759,
+        "comments": 671,
+        "shares": 580,
+        "url": "https://www.bilibili.com/video/BV1AZiBYLEov/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AZiBYLEov",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1wT411n7nt",
+        "originalTitle": "【最伟大的作品】当杰迷成为科普up",
+        "publishedAt": "2022-07-17",
+        "duration": 246,
+        "views": 593609,
+        "likes": 27880,
+        "favorites": 12096,
+        "comments": 673,
+        "shares": 4799,
+        "url": "https://www.bilibili.com/video/BV1wT411n7nt/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wT411n7nt",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1Se4y147zr",
+        "originalTitle": "原来，我们的世界观，都错了！（量子力学篇 05期）",
+        "publishedAt": "2022-10-30",
+        "duration": 783,
+        "views": 232889,
+        "likes": 6000,
+        "favorites": 2944,
+        "comments": 381,
+        "shares": 432,
+        "url": "https://www.bilibili.com/video/BV1Se4y147zr/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Se4y147zr",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1FC4y1X7MB",
+        "originalTitle": "【量子力学篇-番外】物理学现在到底是个啥情况？",
+        "publishedAt": "2023-12-08",
+        "duration": 725,
+        "views": 607309,
+        "likes": 26746,
+        "favorites": 19173,
+        "comments": 662,
+        "shares": 1604,
+        "url": "https://www.bilibili.com/video/BV1FC4y1X7MB/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FC4y1X7MB",
+        "series": [
+          "量子力学篇"
+        ]
+      },
+      {
+        "id": "BV1Ng411a7zo",
+        "originalTitle": "【量子力学篇】如何获得一个单光子源？（答疑）",
+        "publishedAt": "2022-10-14",
+        "duration": 484,
+        "views": 297555,
+        "likes": 5584,
+        "favorites": 1739,
+        "comments": 253,
+        "shares": 289,
+        "url": "https://www.bilibili.com/video/BV1Ng411a7zo/",
+        "api": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ng411a7zo",
+        "series": [
+          "量子力学篇"
+        ]
       }
+    ],
+    "catalog_count": 81,
+    "seasons": [
+      {
+        "name": "量子力学篇",
+        "count": 23,
+        "ids": [
+          "BV1cf4y1Z784",
+          "BV1EV4y1x74g",
+          "BV1na41157US",
+          "BV1wD4y1z7yZ",
+          "BV1hV4y1g7zr",
+          "BV1cW4y1t72S",
+          "BV1924y1D7vn",
+          "BV1gT411h7ug",
+          "BV18s4y1g7zh",
+          "BV1sz4y1q7MA",
+          "BV1kV4y1e7XP",
+          "BV1M14y1C7Fu",
+          "BV1yM41197mo",
+          "BV1UC4y117HL",
+          "BV1Ht4y1R7Y7",
+          "BV1T5411v79M",
+          "BV1zK421v7L3",
+          "BV19M4m117G2",
+          "BV1AZiBYLEov",
+          "BV1wT411n7nt",
+          "BV1Se4y147zr",
+          "BV1FC4y1X7MB",
+          "BV1Ng411a7zo"
+        ],
+        "url": "https://www.bilibili.com/video/BV1cf4y1Z784/",
+        "role": "建立知识骨架",
+        "about": "实验、历史与理论按章节组织，是系统讲解的一条主线。",
+        "analysis": "从开端、原子与光推进到双缝、纠缠、不确定性；合集有番外和不同版本，不是严格的单线课程。",
+        "question": "理解门槛在哪里？后续章节怎样补齐前置概念？",
+        "medianDuration": 700,
+        "medianViews": 297555,
+        "first": 1656733113,
+        "last": 1733479169
+      },
+      {
+        "name": "灵魂拷问",
+        "count": 11,
+        "ids": [
+          "BV1hB4y1D7um",
+          "BV1au4y1e7SW",
+          "BV12h4y1a74z",
+          "BV1LC4y1U768",
+          "BV1ze411U7Ne",
+          "BV1op421Z7Wm",
+          "BV1xm411f78t",
+          "BV1Sz421Q7e6",
+          "BV1BMSdYUEL4",
+          "BV1RKDZYQEQS",
+          "BV1twUvYuEy3"
+        ],
+        "url": "https://www.bilibili.com/video/BV1hB4y1D7um/",
+        "role": "把知识接回自我",
+        "about": "宇宙、时间、意识、自由意志与人才观被放在同一提问框架里。",
+        "analysis": "共同点不是学科相同，而是问题会改变观众对现实或自己的理解。编号与合集条数不能混用。",
+        "question": "科学解释结束后，哪里开始进入哲学判断或个人立场？",
+        "medianDuration": 868,
+        "medianViews": 381961,
+        "first": 1654270344,
+        "last": 1731764533
+      },
+      {
+        "name": "极速烧脑",
+        "count": 20,
+        "ids": [
+          "BV14eKKeiEtr",
+          "BV1i8XXYmEer",
+          "BV11zRsYREtB",
+          "BV13dXLYKEcb",
+          "BV1TAZBYBEzF",
+          "BV1MP5JzpE5D",
+          "BV1vUjJzuEYp",
+          "BV1Zo7pzWEBs",
+          "BV1nGTiziEVk",
+          "BV1AfKwzVEhQ",
+          "BV1st3XzNEsT",
+          "BV1XQubzkEwe",
+          "BV1Wfhwz6ETC",
+          "BV1SihXz4E3o",
+          "BV17Lp9zHEuR",
+          "BV1LHCgBcEXG",
+          "BV1r12iBnEPJ",
+          "BV177iMB6EgF",
+          "BV1xHFWzxEuE",
+          "BV1nT9SBgE83"
+        ],
+        "url": "https://www.bilibili.com/video/BV14eKKeiEtr/",
+        "role": "建立一个概念入口",
+        "about": "分形、熵增、混沌、傅立叶变换、纳什均衡等概念形成短一些的知识单元。",
+        "analysis": "名称承诺浓缩理解；本次20条的实际时长应以数据为准，不能预设每条都是一分钟。",
+        "question": "一个短单元保留了什么关键推理，又省略了哪些条件？",
+        "medianDuration": 384.0,
+        "medianViews": 670268.0,
+        "first": 1739526000,
+        "last": 1777453200
+      },
+      {
+        "name": "一口气系列",
+        "count": 11,
+        "ids": [
+          "BV1cW42197HX",
+          "BV1tU411U7Kn",
+          "BV1WE421w7E3",
+          "BV1LE4m1d7Ha",
+          "BV1Jr421M74H",
+          "BV1Gr421N7UL",
+          "BV1XN4AenETx",
+          "BV11q2tY5Edi",
+          "BV18pbCztEnC",
+          "BV1UR8RzFEf2",
+          "BV13vWuz9EJM"
+        ],
+        "url": "https://www.bilibili.com/video/BV1cW42197HX/",
+        "role": "把主题重新打包",
+        "about": "量子力学、终极问题、数学公式、宇宙结局等以集合式命名组织。",
+        "analysis": "“一口气”是一种观看与打包承诺，并非固定长视频规格；该合集既有短篇，也有185分钟作品。",
+        "question": "合集是否提供章节导航？每个子问题能否独立理解？",
+        "medianDuration": 648,
+        "medianViews": 456455,
+        "first": 1721362245,
+        "last": 1758272400
+      },
+      {
+        "name": "AI",
+        "count": 3,
+        "ids": [
+          "BV1NvbwzuEQf",
+          "BV15P6GYcEc3",
+          "BV1kg4y1T7PA"
+        ],
+        "url": "https://www.bilibili.com/video/BV1NvbwzuEQf/",
+        "role": "解释技术并讨论边界",
+        "about": "公开合集包含GPT-4、十层理解与AI意识判断三个入口。",
+        "analysis": "由具体产品到知识框架，再到能力与意识的边界，适合做递进对照。",
+        "question": "历史技术描述是否仍成立？能力展示能否支撑意识判断？",
+        "medianDuration": 1119,
+        "medianViews": 271513,
+        "first": 1681580333,
+        "last": 1754816400
+      },
+      {
+        "name": "人体",
+        "count": 10,
+        "ids": [
+          "BV16P4y1z7uR",
+          "BV1TCd2YxES3",
+          "BV1fz6mBaE5p",
+          "BV1s2QEBsE96",
+          "BV1s7Vm6VEYe",
+          "BV1RvEd6hE4g",
+          "BV1NfjF6DETP",
+          "BV1kz3C6REzy",
+          "BV1DyhF6wEwK",
+          "BV1Lwew6JEzk"
+        ],
+        "url": "https://www.bilibili.com/video/BV16P4y1z7uR/",
+        "role": "把抽象原理落到身体",
+        "about": "眼睛、视觉错觉、疼痛、睡眠等题目与日常经验直接相关。",
+        "analysis": "身体体验容易建立相关性，也更需要区分一般机制、个体差异与健康建议。",
+        "question": "体验、机制与生活建议各自依据什么？",
+        "medianDuration": 333.0,
+        "medianViews": 557978.0,
+        "first": 1674487213,
+        "last": 1789559249
+      },
+      {
+        "name": "走近科幻",
+        "count": 3,
+        "ids": [
+          "BV1x44y1D7zJ",
+          "BV1jb411f7jC",
+          "BV1mnAczBEHC"
+        ],
+        "url": "https://www.bilibili.com/video/BV1x44y1D7zJ/",
+        "role": "用文化兴趣连接科学",
+        "about": "公开分组分别连接《三体》《流浪地球》《挽救计划》。",
+        "analysis": "借熟悉的故事建立场景，再转入现实原理或技术边界；电影设定与现实证据需要分开。",
+        "question": "哪部分属于虚构设定，哪部分已有实验或工程支持？",
+        "medianDuration": 650,
+        "medianViews": 276302,
+        "first": 1669549522,
+        "last": 1774089872
+      }
+    ],
+    "highlighted_sample_count": 12,
+    "highlighted_ids": [
+      "BV1NvbwzuEQf",
+      "BV1au4y1e7SW",
+      "BV1jb411f7jC",
+      "BV15P6GYcEc3",
+      "BV1tU411U7Kn",
+      "BV1XQubzkEwe",
+      "BV1BMSdYUEL4",
+      "BV1fz6mBaE5p",
+      "BV14eKKeiEtr",
+      "BV1Wfhwz6ETC",
+      "BV1op421Z7Wm",
+      "BV1FC4y1X7MB"
     ]
   },
   "sources": [
@@ -158,5 +1554,52 @@
     "受众人口属性",
     "当前团队",
     "实际收入与报价"
+  ],
+  "subtitle_check": {
+    "videos": [
+      "BV1NvbwzuEQf",
+      "BV1XQubzkEwe"
+    ],
+    "result": "匿名官方player接口返回空字幕列表，未获得可用全文字幕。"
+  },
+  "metric_definitions": {
+    "like_to_view": "累计点赞数/累计播放数×100%；不是独立用户点赞率或完播率",
+    "favorite_to_view": "累计收藏数/累计播放数×100%；不是收藏用户占独立观众比例",
+    "series_median": "本次取得的合集成员对应指标中位数；不代表近期平台基准"
+  },
+  "brand_sources": [
+    {
+      "bvid": "BV1Wfhwz6ETC",
+      "api": "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1Wfhwz6ETC",
+      "tags": [
+        "3D打印",
+        "3D打印机",
+        "空间",
+        "科普",
+        "宇宙",
+        "爱乐酷",
+        "爱乐酷土星4U16K",
+        "四维空间",
+        "高维空间",
+        "3分钟分享一个科学知识"
+      ]
+    },
+    {
+      "bvid": "BV1TAZBYBEzF",
+      "api": "https://api.bilibili.com/x/tag/archive/tags?bvid=BV1TAZBYBEzF",
+      "tags": [
+        "爱因斯坦",
+        "科普",
+        "广义相对论",
+        "永艺人体工学椅",
+        "闪电新品",
+        "领国补就上京东",
+        "永艺撑腰椅X5Pro",
+        "牛顿",
+        "引力",
+        "万物研究所",
+        "万物研究所·春日探索企划"
+      ]
+    }
   ]
 }
