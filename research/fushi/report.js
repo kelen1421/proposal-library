@@ -66,7 +66,7 @@
     if (!m) return;
     $$('[data-map]').forEach(button => { const selected = button.dataset.map === key; button.setAttribute('aria-selected', String(selected)); button.tabIndex = selected ? 0 : -1; });
     $('#map-panel').setAttribute('aria-labelledby', `maptab-${key}`);
-    $('#map-panel').innerHTML = `<span class="map-no" aria-hidden="true">${m.no}</span><h3>${esc(m.title)}</h3><p>${esc(m.text)}</p><div class="map-examples">${m.examples.map(x => `<span>${esc(x)}</span>`).join('')}</div><p class="note"><span class="tag suggestion">研究参考</span> ${esc(m.reference)}</p>`;
+    $('#map-panel').innerHTML = `<span class="map-no" aria-hidden="true">${m.no}</span><h3>${esc(m.title)}</h3><p>${esc(m.text)}</p><div class="map-examples">${m.examples.map(x => `<span>${esc(x)}</span>`).join('')}</div>`;
   }
   const tabs = $$('[data-map]');
   tabs.forEach((button, i) => {
